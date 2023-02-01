@@ -1,3 +1,3 @@
 - Hello. My name is Omar Mohamed Noor,
-- I’m fullstack software developer interested in participating/collaborating any open source projects or challenge to further my professional dwellings.
+- I am a full-stack software developer interested in participating/collaborating any open source projects or challenge to further my professional dwellings.
 - Kindly reach me at Dev.omarnoor@outlook.com
